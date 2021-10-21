@@ -9,3 +9,9 @@ animal_hash = {
   family: ['baby lion', 'mother lion'],
   how_old: 13
 }
+
+customer_hash = {
+  first_time: true,
+  6 => "Questions for the cashier",
+  lives_nearby: true 
+}
